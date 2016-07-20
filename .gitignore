@@ -1,0 +1,17 @@
+*.meta
+*.shader.meta
+*.prefab.meta
+*.material.meta
+*.mat.meta
+*.fbx.meta
+*.cs.meta
+*.ogv.meta
+*.jpg.meta
+*.tif.meta
+*.unity.meta
+*.scripts.meta
+*.materials.meta
+*.assets.meta
+*.textures.meta
+*.pdf.meta
+*.apk
